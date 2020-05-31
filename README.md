@@ -11,7 +11,9 @@ The client told us that one of his subcontractors create this application and me
 -	Provide a simple REST-Endpoint to fetch all CSV-Entries
 -	Do refactoring’s if necessary 
 
+Furthermore, the client told us that the applicaiton is not starting at all. Maybe you need to do some fixes before you can start with your work.
 
+---
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
