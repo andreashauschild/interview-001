@@ -1,6 +1,6 @@
 # interview-001 project
 
-## Szenario
+## Scenario
 
 The given (and broken) application was provided by a client of us. 
 
