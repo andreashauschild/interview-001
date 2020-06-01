@@ -13,7 +13,7 @@
             $('#upload-btn').click((event) => {
                 //stop submit the form, we will post it manually.
                 event.preventDefault();
-
+                    // testeer
                 var data = new FormData($('#reportUploadForm')[0]);
                 data.append("shortDiscr",$("#shortDiscr").val())
                 data.append("fileName",$("#file").val())
